@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.card{
+	width: 50%;
+	background: #f2f2f2;
+	text-align: center;
+	padding: 8%;
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+img{
+	width: 100%
+}
+.title{
+	font-size: 50px;
+	font-weight: 900;
+}
+.content{
+	font-size: 30px;
+	font-weight: bolder;
+	margin: 10px;
+}
+button{
+	border-style: none;
+	background: #ff5050;
+	color: white;
+	border-radius: 20px;
+	padding: 15px;
+	font-size: 30px;
+}
